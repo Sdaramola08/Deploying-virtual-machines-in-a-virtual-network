@@ -1,4 +1,4 @@
-# Deploying-virtual-machines-in-a-virtual-network infrastructure
+# Deploying virtual machines in a virtual network infrastructure
 
 ![Network and Application Security Groups](https://github.com/0xbythesecond/Virtual-Networking-Deploying-Virtual-Machines/blob/main/Network%20and%20Application%20Security%20Group.png?raw=true)
 
